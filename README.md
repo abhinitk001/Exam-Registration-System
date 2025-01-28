@@ -1,5 +1,6 @@
 # Exam-Registration-System
 
-Members- Abhinit Kumar 24/B01/009 <br>
-         Abhinav Singh 24/B01/008 <br>
-         Abhinav Singh 24/B01/007
+Members
+Abhinit Kumar 24/B01/009 <br>
+Abhinav Singh 24/B01/008 <br>
+Abhinav Singh 24/B01/007
