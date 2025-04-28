@@ -1,5 +1,5 @@
 //The following code is for simple Exam Registration System 
-//This code is only been tested on vs code terminal and can be run on CLI also
+//This code is only been tested on VS Code terminal and can be run on CLI also
 //A text file name users.txt is essential to create before running this code as without the file you cannot login or register to start the program 
 /*For results you have to create another file name results.txt and have to enter results in the following manner
 Student Name: 
